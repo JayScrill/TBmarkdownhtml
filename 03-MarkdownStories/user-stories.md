@@ -13,12 +13,13 @@ Bellow you will find two user stories. The first one inloves creating a Linked D
 2. As a user I want to be able click on a telephone link to make a call so that I don't have to dial the number.
 
 ## Acceptance Criteria
-
+```
 *Given* that user can easily locate the links
 
 *When* the user clicks on the links provided
 
 *Then* the user can locate and execute any task with ease.
+```
 
 ---
 
